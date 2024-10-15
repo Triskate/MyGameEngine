@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|d:\\aisla\\programacion\\act2-p2-albertisla\\proyectobase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|d:\\aisla\\programacion\\act2-p2-albertisla\\proyectobase\\engine\\scenemanager\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|solutionrelative:engine\\scenemanager\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|d:\\aisla\\programacion\\act2-p2-albertisla\\proyectobase\\engine\\scenemanager\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|solutionrelative:engine\\scenemanager\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|d:\\aisla\\programacion\\act2-p2-albertisla\\proyectobase\\engine\\render\\render.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|solutionrelative:engine\\render\\render.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|d:\\aisla\\programacion\\act2-p2-albertisla\\proyectobase\\engine\\render\\pointlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|solutionrelative:engine\\render\\pointlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|d:\\aisla\\programacion\\act2-p2-albertisla\\proyectobase\\game\\sirmartin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|solutionrelative:game\\sirmartin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|d:\\aisla\\programacion\\act2-p2-albertisla\\proyectobase\\engine\\scenemanager\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|solutionrelative:engine\\scenemanager\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|d:\\aisla\\programacion\\act2-p2-albertisla\\proyectobase\\engine\\render\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|solutionrelative:engine\\render\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|d:\\aisla\\programacion\\act2-p2-albertisla\\proyectobase\\game\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|solutionrelative:game\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|d:\\aisla\\programacion\\act2-p2-albertisla\\proyectobase\\game\\lizzard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|solutionrelative:game\\lizzard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|d:\\aisla\\programacion\\act2-p2-albertisla\\proyectobase\\engine\\scenemanager\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|solutionrelative:engine\\scenemanager\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|d:\\aisla\\programacion\\act2-p2-albertisla\\proyectobase\\engine\\scenemanager\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|solutionrelative:engine\\scenemanager\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|d:\\aisla\\programacion\\act2-p2-albertisla\\proyectobase\\engine\\render\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|solutionrelative:engine\\render\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|d:\\aisla\\programacion\\act2-p2-albertisla\\proyectobase\\engine\\render\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|solutionrelative:engine\\render\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|d:\\aisla\\programacion\\act2-p2-albertisla\\proyectobase\\game\\sun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|solutionrelative:game\\sun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|d:\\aisla\\programacion\\act2-p2-albertisla\\proyectobase\\engine\\render\\mesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|solutionrelative:engine\\render\\mesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|d:\\aisla\\programacion\\act2-p2-albertisla\\proyectobase\\engine\\render\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB89723E-EC64-43BD-8B09-CBDEA41113AA}|GameEngine.csproj|solutionrelative:engine\\render\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAiwMsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:26:32.549Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Render.cs",
+              "DocumentMoniker": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\Render\\Render.cs",
+              "RelativeDocumentMoniker": "Engine\\Render\\Render.cs",
+              "ToolTip": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\Render\\Render.cs",
+              "RelativeToolTip": "Engine\\Render\\Render.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwDAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T00:12:15.06Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\SceneManager\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Engine\\SceneManager\\SceneLoader.cs",
+              "ToolTip": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\SceneManager\\SceneLoader.cs",
+              "RelativeToolTip": "Engine\\SceneManager\\SceneLoader.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAqwIQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:50:01.514Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Shader.cs",
+              "DocumentMoniker": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\Render\\Shader.cs",
+              "RelativeDocumentMoniker": "Engine\\Render\\Shader.cs",
+              "ToolTip": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\Render\\Shader.cs",
+              "RelativeToolTip": "Engine\\Render\\Shader.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAADwv3gAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:20:46.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SirMartin.cs",
+              "DocumentMoniker": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Game\\SirMartin.cs",
+              "RelativeDocumentMoniker": "Game\\SirMartin.cs",
+              "ToolTip": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Game\\SirMartin.cs",
+              "RelativeToolTip": "Game\\SirMartin.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:11:41.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transform.cs",
+              "DocumentMoniker": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\SceneManager\\Transform.cs",
+              "RelativeDocumentMoniker": "Engine\\SceneManager\\Transform.cs",
+              "ToolTip": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\SceneManager\\Transform.cs",
+              "RelativeToolTip": "Engine\\SceneManager\\Transform.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwC4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:53:55.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Renderer.cs",
+              "DocumentMoniker": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\Render\\Renderer.cs",
+              "RelativeDocumentMoniker": "Engine\\Render\\Renderer.cs",
+              "ToolTip": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\Render\\Renderer.cs",
+              "RelativeToolTip": "Engine\\Render\\Renderer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:48:32.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\Render\\Camera.cs",
+              "RelativeDocumentMoniker": "Engine\\Render\\Camera.cs",
+              "ToolTip": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\Render\\Camera.cs",
+              "RelativeToolTip": "Engine\\Render\\Camera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:08:50.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CameraMovement.cs",
+              "DocumentMoniker": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Game\\CameraMovement.cs",
+              "RelativeDocumentMoniker": "Game\\CameraMovement.cs",
+              "ToolTip": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Game\\CameraMovement.cs",
+              "RelativeToolTip": "Game\\CameraMovement.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:35:43.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PointLight.cs",
+              "DocumentMoniker": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\Render\\PointLight.cs",
+              "RelativeDocumentMoniker": "Engine\\Render\\PointLight.cs",
+              "ToolTip": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\Render\\PointLight.cs",
+              "RelativeToolTip": "Engine\\Render\\PointLight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:19:30.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\SceneManager\\Scene.cs",
+              "RelativeDocumentMoniker": "Engine\\SceneManager\\Scene.cs",
+              "ToolTip": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\SceneManager\\Scene.cs",
+              "RelativeToolTip": "Engine\\SceneManager\\Scene.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:55:39.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lizzard.cs",
+              "DocumentMoniker": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Game\\Lizzard.cs",
+              "RelativeDocumentMoniker": "Game\\Lizzard.cs",
+              "ToolTip": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Game\\Lizzard.cs",
+              "RelativeToolTip": "Game\\Lizzard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:49:28.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\SceneManager\\GameObject.cs",
+              "RelativeDocumentMoniker": "Engine\\SceneManager\\GameObject.cs",
+              "ToolTip": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\SceneManager\\GameObject.cs",
+              "RelativeToolTip": "Engine\\SceneManager\\GameObject.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:11:15.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\SceneManager\\SceneManager.cs",
+              "RelativeDocumentMoniker": "Engine\\SceneManager\\SceneManager.cs",
+              "ToolTip": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\SceneManager\\SceneManager.cs",
+              "RelativeToolTip": "Engine\\SceneManager\\SceneManager.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAASwDcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:27:36.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Model.cs",
+              "DocumentMoniker": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\Render\\Model.cs",
+              "RelativeDocumentMoniker": "Engine\\Render\\Model.cs",
+              "ToolTip": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\Render\\Model.cs",
+              "RelativeToolTip": "Engine\\Render\\Model.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAUwKkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:35:49.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Mesh.cs",
+              "DocumentMoniker": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\Render\\Mesh.cs",
+              "RelativeDocumentMoniker": "Engine\\Render\\Mesh.cs",
+              "ToolTip": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Engine\\Render\\Mesh.cs",
+              "RelativeToolTip": "Engine\\Render\\Mesh.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwB4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:38:37.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sun.cs",
+              "DocumentMoniker": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Game\\Sun.cs",
+              "RelativeDocumentMoniker": "Game\\Sun.cs",
+              "ToolTip": "D:\\AIsla\\Programacion\\ACT2-P2-AlbertIsla\\ProyectoBase\\Game\\Sun.cs",
+              "RelativeToolTip": "Game\\Sun.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:49:16.515Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

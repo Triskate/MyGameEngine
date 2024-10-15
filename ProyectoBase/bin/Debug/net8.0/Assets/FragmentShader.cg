@@ -1,0 +1,23 @@
+#version 330 core
+in vec2 fUv;
+in vec3 fNormal;
+
+uniform sampler2D uTexture0;
+uniform vec4 uDirectionalLightColor;
+uniform vec3 uDirectionalLightDirection;
+uniform vec4 uPointLightColor;
+uniform vec3 uPointLightPosition;
+
+
+out vec4 FragColor;
+
+void main()
+{
+    FragColor = texture(uTexture0, fUv) * 
+                (uDirectionalLightColor * 
+                uDirectionalLightColor.w * 
+                dot(uDirectionalLightDirection, fNormal)) + 
+				(uPointLightColor * 
+				uPointLightColor.w * 
+				dot(uPointLightPosition, fNormal));
+}
