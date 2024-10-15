@@ -208,7 +208,7 @@ namespace TestOpenGL
 
                     }// Component Loop
 
-                    scene.AddGameObject(go);
+                    if ( p == 1) { scene.AddGameObject(go); }
 
                 }// GameObject Loop
 
