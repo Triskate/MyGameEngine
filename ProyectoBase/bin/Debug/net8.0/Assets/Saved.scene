@@ -37,7 +37,7 @@ ___type:Vector3
 ___value:0|0|0
 ___name:rotation
 ___type:Vector3
-___value:-45|384,6238|0
+___value:-45|135,5968|0
 ___name:scale
 ___type:Vector3
 ___value:1|1|1
@@ -128,7 +128,7 @@ active:False
 fieldsCount:4
 ___name:position
 ___type:Vector3
-___value:0|-0,5|64,10396
+___value:0|-0,5|22,599468
 ___name:rotation
 ___type:Vector3
 ___value:0|0|0
@@ -170,7 +170,7 @@ active:False
 fieldsCount:4
 ___name:position
 ___type:Vector3
-___value:0|-0,50119734|64,118225
+___value:0|-0,37535667|21,103737
 ___name:rotation
 ___type:Vector3
 ___value:0|0|0

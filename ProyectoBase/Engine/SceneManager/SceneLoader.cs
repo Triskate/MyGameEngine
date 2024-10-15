@@ -201,8 +201,6 @@ namespace TestOpenGL
 
             scene.AddGameObject(go);
 
-            Console.WriteLine("Main lodaded");
-
             return scene;
         }
         public override void UnloadAsset(object o) 

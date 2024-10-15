@@ -79,14 +79,12 @@ namespace TestOpenGL
         }
         public static void SetDirectionalLight(Vector3 direction, Vector3 color, float intensity)
         {
-            Console.WriteLine(direction.X + ", " + direction.Y + ", " + direction.Z);
             directionalLightDirection = direction;
             directionalLightColor = color;
             directionalLightIntensity = intensity;
         }
         public static void SetPointLight(Vector3 position, Vector3 color, float intensity) 
         {
-            Console.WriteLine(position.X + ", " + position.Y + ", " + position.Z);
             pointLightPosition = position;
             pointLightColor = color;
             pointLightIntensity = intensity;
