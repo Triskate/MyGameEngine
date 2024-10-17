@@ -177,6 +177,10 @@ namespace TestOpenGL
                             {
                                 fieldValue = (fieldValueString == "True");
                             }
+                            else if (fieldTypeName == "String")
+                            {
+                                fieldValue = fieldValueString;
+                            }
                             else if (fieldTypeName == "Vector3")
                             {
                                 string[] parts = fieldValueString.Split("|");

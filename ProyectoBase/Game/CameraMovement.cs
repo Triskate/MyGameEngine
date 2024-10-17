@@ -13,6 +13,10 @@ namespace TestOpenGL
         private static Vector2 lastMousePosition;
         public override void Update(float deltaTime)
         {
+
+            Input.onMouseMove += OnMouseMove;
+            Input.onMouseWheel += OnMouseWheel;
+
             var moveSpeed = 2.5f * (float)deltaTime;
 
             if (Input.IsKeyPressed(Key.W))
@@ -68,8 +72,7 @@ namespace TestOpenGL
 
         public override void Start()
         {
-            Input.onMouseMove += OnMouseMove;
-            Input.onMouseWheel += OnMouseWheel;
+            
         }
 
         public override void Stop()

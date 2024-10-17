@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Silk.NET.Assimp;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Numerics;
@@ -11,6 +12,8 @@ namespace TestOpenGL
     {
         public override object LoadAsset(string path)
         {
+
+            /*
             var scene = new Scene();
 
             scene.name = "New scene";
@@ -57,25 +60,7 @@ namespace TestOpenGL
 
             go.transform.rotation.X = -45;
 
-            scene.AddGameObject(go);
-
-            /*
-            // LightPoint
-            go = new GameObject();
-            go.name = "LightPoint";
-
-            c = new LightPoint();
-            go.AddComponent(c);
-
-            pl = new PointLight();
-            pl.intensity = 0.3f;
-            go.AddComponent(pl);
-
-            go.transform.position = new Vector3(0, 0, -10);
-            go.transform.rotation = new Vector3(0, 0, 0);
-
-            scene.AddGameObject(go) ;
-            */
+            scene.AddGameObject(go); 
 
             // Ground
             go = new GameObject();
@@ -201,7 +186,12 @@ namespace TestOpenGL
 
             scene.AddGameObject(go);
 
+            Console.WriteLine("Main lodaded");
+
             return scene;
+            */
+
+            return SceneSerializer.DeserializeScene(path);
         }
         public override void UnloadAsset(object o) 
         {

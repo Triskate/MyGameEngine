@@ -37,7 +37,7 @@ namespace TestOpenGL
             Render.Init(window);
 
             Assets.LoadAssets();
-            SceneManager.SetActiveScene("Main.scene");
+            SceneManager.SetActiveScene("Saved.scene");
         }
 
 
